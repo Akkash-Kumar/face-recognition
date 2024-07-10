@@ -1,5 +1,7 @@
 --- Used to identify or verify identity of individual using human face --- 
 
+-> Need to create images dataset of more than 2 person using datasetscreation.py
+
 Python libraries to install:
 1.pip install opencv-python
 2.pip install opencv-contrib-python
